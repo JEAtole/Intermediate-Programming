@@ -1,0 +1,3 @@
+Length: 51
+Path: C:\Users\Jhenyx\Documents\ATOLE Java_Acts\Intermediate Programming\Lab Act 5\src\SampleText.txt
+Number of Words: 10
